@@ -1,4 +1,4 @@
-# ----- DéMars Stellar Anchor <demars.io> -----
+# ----- DéMars Stellar <demars.io> -----
 
 ACCOUNTS=[
 "GDCPYYD2DQZ2R6VPPWRJ5B2HQIJBGUM5EMN3XZJM4OHASMSYX2PUL4BH",
@@ -13,14 +13,12 @@ ORG_NAME=“March Hare & Co. Ltd“
 ORG_DBA=“DéMars”
 ORG_URL="https://demars.io”
 ORG_LOGO="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
-ORG_DESCRIPTION=“March Hare & Co. Ltd are the creators of the DéMars Project and the DMC App. The company is building Stellar anchors and a wallet application to reduce the cost of cross border transactions within Africa.
+ORG_DESCRIPTION=“March Hare & Co. Ltd are the creators of the DéMars Project and the DMC App. The company is building on Stellar to reduce the cost of cross border transactions within Africa.
 ORG_PHYSICAL_ADDRESS="Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
 ORG_KEYBASE=“demars”
 ORG_TWITTER=“DemarsDmc”
 ORG_GITHUB="DeMars-DMC”
 ORG_OFFICIAL_EMAIL=“dmc@demars.io”
-ORG_LICENSE_TYPE=“Custodian Services (Digital Asset) License - Pending “
-ORG_LICENSE_NUMBER=“N/A”
 
 [[PRINCIPALS]]
 name=“Shaun Burrow“
@@ -30,22 +28,22 @@ twitter=“hippy_banker”
 github=“MarchHare-MU”
 
 [[CURRENCIES]]
-code=“RAND”
-issuer="GDCPYYD2DQZ2R6VPPWRJ5B2HQIJBGUM5EMN3XZJM4OHASMSYX2PUL4BH"
+code=“ZAR”
+issuer="GBW4A2PFL6Y2PMFDR2V6F4X4VSJYBZHPL53AI7YXF65VLCUNQ73WTJ6Q"
 display_decimals=2
 anchor_asset_type="fiat"
 anchor_asset=“ZAR”
 name=“South African Rand“
-desc="Asset backed South African Rand. All RAND is fully backed by deposits at a bank."
+desc="Fiat collateralised South African Rand. All ZAR is fully backed by audited deposits at a regulated South African bank."
 image="https://www.demars.io/wp-content/uploads/2019/02/ZAR-South-African-RAND.png"
 
 [[CURRENCIES]]
-code=“NKLS”
-issuer="GA3VRDTEH2C7DSXRPUEBL55JUJPMFUOUVUAPDX4T3JK5QHLSNLXZDIFC"
+code=“DMC”
+issuer="GALRZBMCK47XLHQQXQSPCNJ375NGB6LP6RCBIGPXQAWIE2A4UCDTGQ52"
 display_decimals=2
-name=“Nickel”
-desc=“Nickels are a stable payment token for online merchant transactions. 1 Nickel will initially equal 5 USD Cents. Nickels are physically backed by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation. The value of the assets will be published live on the issuer’s website.“
-image="https://www.demars.io/wp-content/uploads/2019/02/DéMars-Nickels-NKLS.png"
-conditions=“There will only ever be 10,000,000,000 Nickels.”
+name=“DéMars Coins”
+desc=“Collateralised by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation. The value of the assets will be published live on the issuer’s website.“
+image=""
+conditions=“There will only ever be 200,000,000 DMC.”
 
 # ----- Korek! -----
