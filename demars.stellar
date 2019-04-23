@@ -1,18 +1,16 @@
 # ----- DéMars Stellar <demars.io> -----
 
 ACCOUNTS=[
-"GBNQBSUONSVP55PO7RS6ZZTIVM7YHL33YPNR7F34TFDXZ5YC73V4PNVX",
 "GDK2NGRZ5PRCTHHIEUVBTDAIUD4BGL5VUWST6GRLR2ZS2QMGSTDJX4FR",
-"GCEFF5DTPT2BHCHAY2JBKHWFRF2UNVEI6SSUJV5NRZWQGNEJ6O5URN6Z",
-"GB4432ARYDUWIJMSLR66VJUSRVBO5DHIKTLFP67CDAFHRVFDFRNQWEIM",]
+"GCEFF5DTPT2BHCHAY2JBKHWFRF2UNVEI6SSUJV5NRZWQGNEJ6O5URN6Z",]
 
 [DOCUMENTATION]
-ORG_NAME=“March Hare & Co. Ltd“
+ORG_NAME=“DéMars Ltd“
 ORG_DBA=“DéMars”
 ORG_URL="https://demars.io”
 ORG_LOGO="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
-ORG_DESCRIPTION=“March Hare & Co. Ltd are the creators of the DéMars Project and the DMC App. The company is building on Stellar to reduce the cost of cross border transactions within Africa.
-ORG_PHYSICAL_ADDRESS="Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
+ORG_DESCRIPTION=“DéMars is an African financial infrastructure project. With a focus on enabling instant cross border micropayments. Our objective is to make it possible to send less than $10 back home, at a cost of less than 1%, in real time."
+ORG_PHYSICAL_ADDRESS="Head Office: Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
 ORG_KEYBASE=“demars”
 ORG_TWITTER=“DemarsDmc”
 ORG_GITHUB="DeMars-DMC”
@@ -40,8 +38,9 @@ code=“DMC”
 issuer="GALRZBMCK47XLHQQXQSPCNJ375NGB6LP6RCBIGPXQAWIE2A4UCDTGQ52"
 display_decimals=2
 name=“DéMars Coins”
-desc=“Collateralised by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation. The value of the assets will be published live on the issuer’s website.“
-image=""
+desc=“DMC may be used to pay for up to 50% of the Anchor transaction fees. These digtial assets are collateralised by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation.“
+whitepaper="https://docs.google.com/document/d/1iWGPVa1q8nIzPD7SRe8sGACoKTLScLuWupqzwwfBUEU/edit?usp=sharing"
+image="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
 conditions=“There will only ever be 200,000,000 DMC.”
 
 # ----- Korek! -----
