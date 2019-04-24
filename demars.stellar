@@ -38,7 +38,13 @@ code=“DMC”
 issuer="GALRZBMCK47XLHQQXQSPCNJ375NGB6LP6RCBIGPXQAWIE2A4UCDTGQ52"
 display_decimals=2
 name=“DéMars Coins”
-desc=“DMC may be used to pay for up to 50% of the Anchor transaction fees. These digtial assets are collateralised by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation.“
+desc=“DMC is the "gas" which powers the DéMars inter-Africa payment network. DMC can be used to pay Anchor transaction fees (fiat deposit/withdrawal fees). Whereby DéMars account holders may receive discounts of up to 50%* on the Anchor fees, should they pay with DMC. 
+
+Because every cent counts.
+
+The collateralised nature and instant peer to peer transferability of DMC make it perfect for merchant acceptances and it may also serve as collateral for fiat loans.
+
+DéMars coins are backed by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation.“
 whitepaper="https://docs.google.com/document/d/1iWGPVa1q8nIzPD7SRe8sGACoKTLScLuWupqzwwfBUEU/edit?usp=sharing"
 image="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
 conditions=“There will only ever be 200,000,000 DMC.”
