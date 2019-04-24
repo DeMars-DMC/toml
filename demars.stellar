@@ -9,7 +9,7 @@ ORG_NAME=“DéMars Ltd“
 ORG_DBA=“DéMars”
 ORG_URL="https://demars.io”
 ORG_LOGO="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
-ORG_DESCRIPTION=“DéMars is focussed on enabling instant cross border micropayments within and to Africa. Specially for inter-African migrants and the diaspora."
+ORG_DESCRIPTION=“DéMars is focussed on enabling instant cross border micropayments within and to Africa. Primarily for inter-African migrants and the diaspora."
 ORG_PHYSICAL_ADDRESS="Head Office: Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
 ORG_KEYBASE=“demars”
 ORG_TWITTER=“DemarsDmc”
@@ -38,12 +38,11 @@ code=“DMC”
 issuer="GALRZBMCK47XLHQQXQSPCNJ375NGB6LP6RCBIGPXQAWIE2A4UCDTGQ52"
 display_decimals=2
 name=“DéMars Coins”
-desc=“DMC is the "gas" which powers the DéMars inter-Africa payment network. DMC can be used to pay Anchor transaction fees (fiat deposit/withdrawal fees). Whereby DéMars account holders may receive discounts of up to 50%* on the Anchor fees, should they pay with DMC. 
+desc=“DMC are a reward token. Users of DéMars Anchors may earn up to 50%* of their Anchor fees back in DMC. Those fees incurred when they withdraw and deposit fiat cash.
 
 Because every cent counts.
 
-The collateralised nature and instant peer to peer transferability of DMC make it perfect for merchant acceptances and it may also serve as collateral for fiat loans.
-
+DMC may be redeemed at any merchants accepting DéMars stablecoins, e.g. South African Rand (ZAR).
 DéMars coins are backed by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation.“
 whitepaper="https://docs.google.com/document/d/1iWGPVa1q8nIzPD7SRe8sGACoKTLScLuWupqzwwfBUEU/edit?usp=sharing"
 image="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
