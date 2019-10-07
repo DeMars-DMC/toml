@@ -1,17 +1,17 @@
-# ----- DéMars Stellar <demars.io> -----
+# ----- DéMars <demars.io> -----
 
 ACCOUNTS=[
-"GDK2NGRZ5PRCTHHIEUVBTDAIUD4BGL5VUWST6GRLR2ZS2QMGSTDJX4FR",
-"GCEFF5DTPT2BHCHAY2JBKHWFRF2UNVEI6SSUJV5NRZWQGNEJ6O5URN6Z",]
+"GBJHCJH3RKPNNNRJKHQWPAYPJAKBB55CJWCDIM4CQGI2ADQF67RII6Z3",
+"GAAPTEV3GSJEQSK7ZAR4PC3OS5QO4QQZMZCXEZSLKCJP6PWESO7OPBVO",
+"GABD5UT2BS7QZ3YHLAGC7LJSIUZIPQVL3KHXV6MFIQUDYEBDODR6YT53",]
 
 [DOCUMENTATION]
-ORG_NAME=“DéMars Ltd“
+ORG_NAME=“March Hare & Co. Ltd“
 ORG_DBA=“DéMars”
 ORG_URL="https://demars.io”
 ORG_LOGO="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
-ORG_DESCRIPTION=“DéMars is focussed on enabling instant cross border micropayments within and to Africa. Primarily for inter-African migrants and the diaspora."
-ORG_PHYSICAL_ADDRESS="Head Office: Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
-ORG_KEYBASE=“demars”
+ORG_DESCRIPTION=“The DéMars Project is focussed on enabling instant cross border micropayments within and to the African continent."
+ORG_PHYSICAL_ADDRESS="Perrieri Office Suites, Suite C1-401, Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
 ORG_TWITTER=“DemarsDmc”
 ORG_GITHUB="DeMars-DMC”
 ORG_OFFICIAL_EMAIL=“dmc@demars.io”
@@ -24,28 +24,14 @@ twitter=“hippy_banker”
 github=“MarchHare-MU”
 
 [[CURRENCIES]]
-code=“ZAR”
-issuer="GBW4A2PFL6Y2PMFDR2V6F4X4VSJYBZHPL53AI7YXF65VLCUNQ73WTJ6Q"
+code=“ZART”
+issuer="GBJHCJH3RKPNNNRJKHQWPAYPJAKBB55CJWCDIM4CQGI2ADQF67RII6Z3"
 display_decimals=2
 anchor_asset_type="fiat"
 anchor_asset=“ZAR”
 name=“South African Rand“
-desc="Fiat collateralised South African Rand. All ZAR is fully backed by audited deposits at a regulated South African bank."
+desc="The issuer will pay out South African Rands on a 1:1 basis, on any redemption of the ZART token."
 image="https://www.demars.io/wp-content/uploads/2019/02/ZAR-South-African-RAND.png"
 
-[[CURRENCIES]]
-code=“DMC”
-issuer="GALRZBMCK47XLHQQXQSPCNJ375NGB6LP6RCBIGPXQAWIE2A4UCDTGQ52"
-display_decimals=2
-name=“DéMars Coins”
-desc=“DMC are a reward token. Users of DéMars Anchors may earn up to 50%* of their Anchor fees back in DMC. Those fees incurred when they withdraw and deposit fiat cash.
-
-Because every cent counts.
-
-DMC may be redeemed at any merchants accepting DéMars stablecoins, e.g. South African Rand (ZAR).
-DéMars coins are backed by a basket of commodities, held in an audited nominee account on behalf of the DéMars Foundation.“
-whitepaper="https://docs.google.com/document/d/1iWGPVa1q8nIzPD7SRe8sGACoKTLScLuWupqzwwfBUEU/edit?usp=sharing"
-image="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
-conditions=“There will only ever be 200,000,000 DMC.”
 
 # ----- Korek! -----
