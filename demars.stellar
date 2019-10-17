@@ -10,7 +10,7 @@ ORG_NAME=“March Hare & Co. Ltd“
 ORG_DBA=“DéMars”
 ORG_URL="https://demars.io”
 ORG_LOGO="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
-ORG_DESCRIPTION=“The DéMars Project is focussed on enabling instant cross border micropayments within and to the African continent."
+ORG_DESCRIPTION=“The DéMars Project is focussed on enabling instant cross border micropayments within and to the African continent. Open to all."
 ORG_PHYSICAL_ADDRESS="Perrieri Office Suites, Suite C1-401, Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
 ORG_TWITTER=“DemarsDmc”
 ORG_GITHUB="DeMars-DMC”
@@ -30,7 +30,7 @@ display_decimals=2
 anchor_asset_type="fiat"
 anchor_asset=“ZAR”
 name=“South African Rand“
-desc="The issuer will pay out South African Rands on a 1:1 basis, on any redemption of the ZART token."
+desc="The issuer will match any ZART with South African Rands (ZAR) on a 1:1 basis. Collateral held is deposited in segregated, audited, accounts at Moody's Baa3 rated South African banks."
 image="https://www.demars.io/wp-content/uploads/2019/02/ZAR-South-African-RAND.png"
 
 
