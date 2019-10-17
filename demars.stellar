@@ -1,4 +1,4 @@
-# ----- DéMars <demars.io> -----
+# ----- DeMars <demars.io> -----
 
 ACCOUNTS=[
 "GBJHCJH3RKPNNNRJKHQWPAYPJAKBB55CJWCDIM4CQGI2ADQF67RII6Z3",
@@ -7,10 +7,10 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME=“March Hare & Co. Ltd“
-ORG_DBA=“DéMars”
+ORG_DBA=“DeMars”
 ORG_URL="https://demars.io”
 ORG_LOGO="https://www.demars.io/wp-content/uploads/2019/02/DMC-Logo-100x100.png"
-ORG_DESCRIPTION=“The DéMars Project is focussed on enabling instant cross border micropayments within and to the African continent. Open to all."
+ORG_DESCRIPTION=“The DeMars Project is focussed on enabling instant cross border micropayments within and to the African continent. Open to all."
 ORG_PHYSICAL_ADDRESS="Perrieri Office Suites, Suite C1-401, Level 4, Office Block C, La Croisette, Grand Baie, 30517, Mauritius"
 ORG_TWITTER=“DemarsDmc”
 ORG_GITHUB="DeMars-DMC”
